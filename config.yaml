@@ -1,0 +1,8 @@
+### MARKR CONFIGURATION ###
+# Exchange
+exchange: coinbase
+# Symbol to Trade
+symbol: 'BTC-USDC'
+# Frame rate (HZ)
+frame_rate: 1
+
